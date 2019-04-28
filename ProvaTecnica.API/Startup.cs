@@ -55,7 +55,7 @@ namespace ProvaTecnica.API
             // Ativa o Swagger UI
             app.UseSwaggerUI(opt =>
             {
-                opt.SwaggerEndpoint("/swagger/v1/swagger.json", "TodoAPI V1");
+                opt.SwaggerEndpoint("/swagger/v1/swagger.json", "ProvaTecnica V1");
                 //opt.RoutePrefix = string.Empty;
             });
         }
