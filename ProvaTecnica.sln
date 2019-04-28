@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28809.33
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaTecnica.Calculos", "ProvaTecnica.Calculos\ProvaTecnica.Calculos.csproj", "{C8D05A80-90D4-4E04-9735-DCC89B42A737}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaTecnica.Tests", "ProvaTecnica.Tests\ProvaTecnica.Tests.csproj", "{A199B137-B89A-4658-B862-E677384F8935}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C8D05A80-90D4-4E04-9735-DCC89B42A737}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D05A80-90D4-4E04-9735-DCC89B42A737}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D05A80-90D4-4E04-9735-DCC89B42A737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A199B137-B89A-4658-B862-E677384F8935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A199B137-B89A-4658-B862-E677384F8935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A199B137-B89A-4658-B862-E677384F8935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A199B137-B89A-4658-B862-E677384F8935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
